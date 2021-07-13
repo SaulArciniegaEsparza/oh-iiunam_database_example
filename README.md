@@ -35,5 +35,5 @@ The real-time rainfall data can be donwloaded from [here](https://www.oh-iiunam.
 
 Just download the Python examples in the main folder and follow the instructions.
 
-Or you can visualize the notebook example from [NBViewer](https://nbviewer.jupyter.org/github/giswqs/earthengine-py-notebooks/blob/master/Algorithms/center_pivot_irrigation_detector.ipynb).
+Or you can visualize the notebook example from [NBViewer](https://nbviewer.jupyter.org/github/SaulArciniegaEsparza/oh-iiunam_database_example/blob/main/example_read_ohunam_database.ipynb).
 
