@@ -2,8 +2,9 @@
 """
 Example of How To Read the OH-IIUNAM database of precipitation at high-temporal resolution
 
-This database has been converted to NetCDF, but real-time data can be donloaded
-from: https://www.oh-iiunam.mx/
+This database has been converted to NetCDF and can be downloaded from: https://doi.org/10.5281/zenodo.5098275
+
+Real-time data can be downloaded from: https://www.oh-iiunam.mx/
 
 
 
